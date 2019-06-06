@@ -1,0 +1,14 @@
+C:\Projetos\ML.PoC.APIVersioning\bin\Debug\netcoreapp2.2\ML.PoC.APIVersioning.deps.json
+C:\Projetos\ML.PoC.APIVersioning\bin\Debug\netcoreapp2.2\ML.PoC.APIVersioning.runtimeconfig.json
+C:\Projetos\ML.PoC.APIVersioning\bin\Debug\netcoreapp2.2\ML.PoC.APIVersioning.runtimeconfig.dev.json
+C:\Projetos\ML.PoC.APIVersioning\bin\Debug\netcoreapp2.2\ML.PoC.APIVersioning.dll
+C:\Projetos\ML.PoC.APIVersioning\bin\Debug\netcoreapp2.2\ML.PoC.APIVersioning.pdb
+C:\Projetos\ML.PoC.APIVersioning\obj\Debug\netcoreapp2.2\ML.PoC.APIVersioning.csprojAssemblyReference.cache
+C:\Projetos\ML.PoC.APIVersioning\obj\Debug\netcoreapp2.2\ML.PoC.APIVersioning.csproj.CoreCompileInputs.cache
+C:\Projetos\ML.PoC.APIVersioning\obj\Debug\netcoreapp2.2\ML.PoC.APIVersioning.RazorAssemblyInfo.cache
+C:\Projetos\ML.PoC.APIVersioning\obj\Debug\netcoreapp2.2\ML.PoC.APIVersioning.RazorAssemblyInfo.cs
+C:\Projetos\ML.PoC.APIVersioning\obj\Debug\netcoreapp2.2\ML.PoC.APIVersioning.AssemblyInfoInputs.cache
+C:\Projetos\ML.PoC.APIVersioning\obj\Debug\netcoreapp2.2\ML.PoC.APIVersioning.AssemblyInfo.cs
+C:\Projetos\ML.PoC.APIVersioning\obj\Debug\netcoreapp2.2\ML.PoC.APIVersioning.RazorTargetAssemblyInfo.cache
+C:\Projetos\ML.PoC.APIVersioning\obj\Debug\netcoreapp2.2\ML.PoC.APIVersioning.dll
+C:\Projetos\ML.PoC.APIVersioning\obj\Debug\netcoreapp2.2\ML.PoC.APIVersioning.pdb
